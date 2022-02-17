@@ -1,7 +1,6 @@
 {
   "name": "nodejspro",
   "version": "1.0.0",
-  "description": "",
   "main": "1-js-module.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +8,15 @@
   "keywords": [],
   "author": "zeus",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GGNAtlaga/nodejscommando.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GGNAtlaga/nodejscommando/issues"
+  },
+  "homepage": "https://github.com/GGNAtlaga/nodejscommando#readme",
+  "description": "",
   "dependencies": {
     "lodash": "^4.17.21"
   }
